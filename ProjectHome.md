@@ -1,0 +1,1 @@
+A framework for creating school websites with e-learning and social networking features, intended for use with teachers, students and/or alumni.
